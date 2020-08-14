@@ -1,4 +1,4 @@
-### currently designing at HashiCorp 👋
+### currently designing at HashiCorp ✨
 
 <!--
 **jnwright/jnwright** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
