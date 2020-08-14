@@ -1,4 +1,4 @@
-### product designer at @hashicorp ✨
+### product designer working on Consul ✨
 
 <!--
 **jnwright/jnwright** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
